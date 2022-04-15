@@ -14,4 +14,5 @@ void main() {
 
   num salLiquido = salBruto * 0.3;
   print("O salario liquido do $nome é $salLiquido");
+
 }
